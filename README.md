@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3876-construct-uniform-parity-array-ii](https://github.com/231B121/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/231B121/Leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/231B121/Leetcode/tree/master/3904-smallest-stable-index-ii) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/231B121/DSA-Learning/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Math
 |  |
 | ------- |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/231B121/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/231B121/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/231B121/Leetcode/tree/master/3731-find-missing-elements) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/231B121/DSA-Learning/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## String
 |  |
 | ------- |
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/231B121/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/231B121/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/231B121/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/231B121/DSA-Learning/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -371,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/231B121/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/231B121/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/231B121/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/231B121/DSA-Learning/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/231B121/Leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Enumeration
 |  |
